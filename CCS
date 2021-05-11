@@ -1,0 +1,18 @@
+/*Modificacion de cabeceras h2*/
+
+.mensaje{
+    background-color: darkseagreen;
+}
+
+body{
+    background-image: url('https://i2.wp.com/primefaces.org/wp-content/uploads/2011/05/logo.png?resize=780%2C228');
+    background-repeat: no-repeat;
+    background-position: center top;
+    /* margin: auto; */
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+p.colortexto{    
+    color:#d3cbb7;
+}

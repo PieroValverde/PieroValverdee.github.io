@@ -1,0 +1,23 @@
+#mensaje{
+    visibility: hidden;
+}
+
+.puntero:hover{
+    cursor: pointer;
+}
+
+.puntero{
+    border-width: 2em;
+    border-style: outset;
+    border-color: #00a;
+}
+
+.textoresaltado{
+    background-color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.colortexto{
+    color: darkblue;
+
+}
